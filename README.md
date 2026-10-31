@@ -8,10 +8,6 @@ https://github.com/user-attachments/assets/9f4290e2-9f97-4fbf-9c38-f23fb3f68a26
 
 *The full walkthrough, 3 minutes with sound: setup, real drafts, live edits, voiceover, captions and rendering.*
 
-![Live edit: change a line and the video updates as you type](docs/demo-live-edit.gif)
-
-*Live edits: change a line and the video updates as you type, with no re-render.*
-
 ---
 
 ## What it does
@@ -78,7 +74,6 @@ scripts/
   extract_brand.py, fonts.py  brand colours, logos and fonts from a website
 references/              engine guide, page and data model, style menu, voices, lessons
   example-arbisoft/      a worked example of the mechanics
-docs/                    images for this README
 ```
 
 ## Credits
