@@ -2,9 +2,15 @@
 
 **A Claude skill that turns a brief into a finished motion-design video.** You describe what you want, Claude builds real draft videos to compare, you pick one and edit the words live, and it renders a full HD MP4 with music, voiceover and captions. It all happens in one live page next to the chat.
 
-[![Watch the demo](docs/demo-live-edit.gif)](docs/demo.mp4)
+## Demo
 
-▶ **[Watch the full demo (3 min, with sound)](docs/demo.mp4)**. The clip above shows a live edit: change a line and the video updates as you type, with no re-render.
+https://github.com/user-attachments/assets/9f4290e2-9f97-4fbf-9c38-f23fb3f68a26
+
+*The full walkthrough, 3 minutes with sound: setup, real drafts, live edits, voiceover, captions and rendering.*
+
+![Live edit: change a line and the video updates as you type](docs/demo-live-edit.gif)
+
+*Live edits: change a line and the video updates as you type, with no re-render.*
 
 ---
 
@@ -72,7 +78,7 @@ scripts/
   extract_brand.py, fonts.py  brand colours, logos and fonts from a website
 references/              engine guide, page and data model, style menu, voices, lessons
   example-arbisoft/      a worked example of the mechanics
-docs/                    the demo video and images for this README
+docs/                    images for this README
 ```
 
 ## Credits
